@@ -1,0 +1,24 @@
+{
+  "name": "workness",
+  "version": "0.0.1",
+  "description": "A discord bot combining work with fitness",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonahbrandwagt/workness.git"
+  },
+  "keywords": [
+    "Work",
+    "Fitness",
+    "Workness"
+  ],
+  "author": "Jonah Brandwagt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonahbrandwagt/workness/issues"
+  },
+  "homepage": "https://github.com/jonahbrandwagt/workness#readme"
+}
